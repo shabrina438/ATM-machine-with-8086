@@ -4,8 +4,8 @@
 ;Passswoed Property
 a db 10,13,"Enter Your Password:$" 
 b db 10,13,"Invalid Password$" 
-pass db "neha$" 
-pass1 dw 4
+pass db "shabrina$" 
+pass1 dw 8
 
 ;Option Property
 wel db 10,13,"                   Welcome to Your Account $"
